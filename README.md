@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on building real-world systems that combine machine learning with efficient system design across web and native applications  <br>- 👯 I’m looking to collaborate on emerging machine learning topics and research-oriented projects  <br>- 🌱 I’m currently learning system design, RAG architectures, and application development  <br>- 💬 Ask me about machine learning, optimization problems, and building end-to-end AI systems  <br>- ⚡ Fun fact: I enjoy turning theoretical algorithms into production-ready systems — and, of course, reading books  
+🔭 I’m currently working on building real-world systems that combine machine learning with efficient system design across web and native applications  <br>- 👯 I’m looking to collaborate on emerging machine learning topics and research-oriented projects  <br>- 🌱 I’m currently learning system design, RAG architectures, and application development  <br>- 💬 Ask me about machine learning, optimization problems, and building end-to-end AI systems  <br>- ⚡ Fun fact: I enjoy turning theoretical algorithms into production-ready systems — and, of course, reading books  
 
 
 ## 🌐 Socials:
