@@ -21,12 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ABHI-310&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ABHI-310/ABHI-310/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ABHI-310&icon=3&color=11)](https://visitcount.itsvg.in)
 
