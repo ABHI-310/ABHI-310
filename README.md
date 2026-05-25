@@ -12,7 +12,7 @@ I design and build production-ready systems where theoretical machine learning a
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,go,ts,js,kotlin,swift,java,julia,dart,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,swift,java,julia,php&theme=dark" />
   </a>
 </p>
 
@@ -26,14 +26,14 @@ I design and build production-ready systems where theoretical machine learning a
 ### Systems & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,react,nextjs,tailwindcss,bootstrap,graphql,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,react,nextjs,tailwindcss,bootstrap,expo,reactnative,graphql,html,css&theme=dark" />
   </a>
 </p>
 
 ### Cloud & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,vercel,git,github,gitlab&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,nginx,vercel,git,github,gitlab&theme=dark" />
   </a>
 </p>
 
