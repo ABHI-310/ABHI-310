@@ -26,4 +26,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/ABHI-310/ABHI-310/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ABHI-310/ABHI-310/output/github-contribution-grid-snake-dark.svg)
