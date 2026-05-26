@@ -26,7 +26,7 @@ I design and build production-ready systems where theoretical machine learning a
 ### Systems & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,react,nextjs,tailwindcss,bootstrap,expo,reactnative,graphql,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,react,nextjs,tailwindcss,bootstrap,graphql,html,reactnative,expo,css&theme=dark" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ I design and build production-ready systems where theoretical machine learning a
 
 ---
 
-## 🐍 System Analytics & Activity
+## System Analytics & Activity
 <p align="left">
   <img src="https://raw.githubusercontent.com/ABHI-310/ABHI-310/output/github-contribution-grid-snake-dark.svg" alt="System Grid Automation" width="100%">
 </p>
